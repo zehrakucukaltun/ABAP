@@ -33,7 +33,7 @@ DATA gv_num4 TYPE int4. " Maximum length is 10.
 
 ````
 - String (S)
-- 
+
 ````Abap
 DATA gv_var1 TYPE String.
 gv_var1 = 'Hello World!' .
