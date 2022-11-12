@@ -53,7 +53,7 @@ DATA : gv_city TYPE C LENGTH 12,
        gv_perc TYPE P LENGTH 3 DECIMALS 2.
        
 gv_city = 'TURKEY'.
-gv_perc = 32,12.
+gv_perc = 32,12. "" Declaring variables
 
 ````
 
